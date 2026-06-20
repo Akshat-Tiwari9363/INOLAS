@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "_id": "69ce0bd7b952566a19a6b66e",
+      "name": "Smoke Test",
+      "email": "smoke@example.com",
+      "role": "student",
+      "hashed_password": "$pbkdf2-sha256$29000$I6R0TmmtNQZAKAVgTKnVug$TpsCb6mYxVRZImJtR2ePSK57E2yDwOvxVwei797Ulw8"
+    },
+    {
+      "_id": "69ce0ca5e50d0abe696d2307",
+      "name": "ABC",
+      "email": "bac@gmail.com",
+      "role": "student",
+      "hashed_password": "$pbkdf2-sha256$29000$tZYSIgTA2BuDsBaCUColBA$vBeVI/.jGQ/x/26UMd8mu3NWB2q.8R8r5yMdy2oJwKk"
+    }
+  ]
+}
